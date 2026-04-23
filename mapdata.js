@@ -8,7 +8,7 @@ var simplemaps_usmap_mapdata={
     popups: "detect",
     state_description: "",
     state_color: "#F7F7F7",
-    state_hover_color: "#Fafafa",
+    state_hover_color: "#af0311",
     state_url: "",
     border_size: "1",
     all_states_inactive: "no",
@@ -31,7 +31,7 @@ var simplemaps_usmap_mapdata={
     
     //Label defaults
     label_color: "#261c1c",
-    label_hover_color: "#261c1c",
+    label_hover_color: "#FFFFFF",
     label_size: "16",
     label_font: "Arial",
     hide_labels: "no",
@@ -52,7 +52,7 @@ var simplemaps_usmap_mapdata={
     popup_opacity: 0.9,
     popup_shadow: 1,
     popup_corners: 5,
-    popup_font: "12px/1.5 Verdana, Arial, Helvetica, sans-serif",
+    popup_font: "16px/1.5 Arial, Helvetica, sans-serif",
     popup_nocss: "no",
     
     //Advanced settings
